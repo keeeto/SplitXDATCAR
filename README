@@ -1,3 +1,10 @@
+Program : SplitXDAT_npt.py  
+Author: zdcao  
+
+Descrpition: The origin program only supports for reading the VASP MD trajectory in the NVT simulation, but 
+             this program is written for the same purpose in the NPT simulation.
+
+
 Program : SplitXDATCAR
 Author : Keith Butler
 
